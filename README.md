@@ -1,5 +1,5 @@
 - 👋 Hi, I’m your favourite spaceman
-- 👀 I’m interested in Rust-Lang, Containers, Blockchain, Distrobuted Systems and RISC-V
+- 👀 I’m interested in Rust-Lang, Containers, Blockchain, Distributed Systems and RISC-V
 - 💞️ I’m looking to collaborate on Blockchain ecosystems in Rust-lang
 - 📫 How to reach me <spaceman@starport43.ch>
 
